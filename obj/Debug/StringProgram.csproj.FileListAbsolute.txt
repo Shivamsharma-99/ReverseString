@@ -1,0 +1,8 @@
+C:\Users\shiva\source\repos\StringProgram\StringProgram\bin\Debug\StringProgram.exe.config
+C:\Users\shiva\source\repos\StringProgram\StringProgram\bin\Debug\StringProgram.exe
+C:\Users\shiva\source\repos\StringProgram\StringProgram\bin\Debug\StringProgram.pdb
+C:\Users\shiva\source\repos\StringProgram\StringProgram\obj\Debug\StringProgram.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\StringProgram\StringProgram\obj\Debug\StringProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\shiva\source\repos\StringProgram\StringProgram\obj\Debug\StringProgram.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\StringProgram\StringProgram\obj\Debug\StringProgram.exe
+C:\Users\shiva\source\repos\StringProgram\StringProgram\obj\Debug\StringProgram.pdb
